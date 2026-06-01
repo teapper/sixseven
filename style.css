@@ -1,0 +1,60 @@
+/* WHS Lions Branding */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.bg-whs-black {
+    background-color: #101820 !important;
+}
+
+.border-whs-red {
+    border-bottom: 5px solid #C8102E !important;
+}
+
+.btn-whs-red {
+    background-color: #C8102E;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: none;
+}
+
+.btn-whs-red:hover {
+    background-color: #a00d25;
+    color: white;
+}
+
+/* Canvas & UI Elements */
+#canvas {
+    border: 5px solid #101820;
+    border-radius: 8px;
+    background-color: #000;
+    width: 100%;
+    max-width: 400px;
+}
+
+#sig-canvas {
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    cursor: crosshair;
+    touch-action: none;
+    background: #fff;
+    width: 100%;
+}
+
+/* Game Elements */
+.game-display {
+    font-size: 5rem;
+    font-weight: bold;
+    color: #C8102E;
+    min-height: 120px;
+}
+
+.stats-label {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    color: #101820;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
