@@ -12,11 +12,11 @@ Link to Conversation: https://gemini.google.com/share/14a11f514685
  3. The program has a zip file upload (my-pose-model.zip) for users to upload a trained model for the game to function properly
  4. Users have the ability to control the flow of the game (start, pause, restart scores)
  5. Pose model was trained using Google's Teachable Machine
- 6. A video is included for users to view a sample on the game's function
+ 6. A video is included for users to view a sample of the game's function
 
 # Limitations and Future Development
 1. The user must upload the included zip file (my-pose-model.zip) containing: model.json, metadata.json, and weights.bin.
 2. The camera must be focused on the user's chest, as the provided pose model does not accurately track arm movement.
 3. Game functions best as the model trains on more diverse data
-4. 
+4. For increased dopamine production, the Six-Seven counter will not be the only game available for users to play (i.e., Subway Surfers-like game, Animal sound maker, DJ set)
 
